@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SimpleOperationsUtility</id>
+    <version>1.0.0</version>
+    <authors>Bret Dalldorf</authors>
+    <owners>Bret Dalldorf</owners>
+    <licenseUrl>http://none.com</licenseUrl>
+    <projectUrl>http://none.com</projectUrl>
+    <iconUrl>http://none.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library is a test for a Nuget Server. This library is otherwise useless.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+		<file src="SimpleOperationsUtility\bin\Release\SimpleOperationsUtility.dll" target="lib\4.6\SimpleOperationsUtility.dll" />
+  </files>
+</package>
